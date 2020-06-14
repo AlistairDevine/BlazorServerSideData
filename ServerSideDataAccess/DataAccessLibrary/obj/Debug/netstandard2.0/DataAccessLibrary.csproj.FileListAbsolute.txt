@@ -1,0 +1,5 @@
+C:\Users\Dvine\Documents\GitHub\BlazorServerSideData\ServerSideDataAccess\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.deps.json
+C:\Users\Dvine\Documents\GitHub\BlazorServerSideData\ServerSideDataAccess\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.dll
+C:\Users\Dvine\Documents\GitHub\BlazorServerSideData\ServerSideDataAccess\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.csprojAssemblyReference.cache
+C:\Users\Dvine\Documents\GitHub\BlazorServerSideData\ServerSideDataAccess\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\Dvine\Documents\GitHub\BlazorServerSideData\ServerSideDataAccess\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfo.cs

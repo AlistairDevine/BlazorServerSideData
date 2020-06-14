@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "plN6RKYjtc6OImZkd4GNzZKZIkuFOjOJ3b79Px8lQybP5w+VAKgyfDKmy1oBFLLfIRupLkCuYb74DJSeU17C7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dvine\\Documents\\GitHub\\BlazorServerSideData\\ServerSideDataAccess\\ServerSideDataAccess\\ServerSideDataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dvine\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
